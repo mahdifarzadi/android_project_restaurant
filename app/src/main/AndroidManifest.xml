@@ -31,6 +31,24 @@
         <activity
             android:name=".LoginActivity"
             android:exported="true" />
+        <activity
+            android:name=".CustomerCart"
+            android:exported="true" />
+        <activity
+            android:name=".ShowFood"
+            android:exported="true" />
+
+        <activity
+            android:name=".ShowRestaurantFood"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".RestaurantDashboard"
+            android:exported="true" />
+        <activity
+            android:name=".RestaurantShowOrders"
+            android:exported="true" />
 
     </application>
 </manifest>
